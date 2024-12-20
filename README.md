@@ -1,12 +1,12 @@
-#Установка Laravel
+# Установка Laravel
 
-##Список Composer пакетов
-###require
+## Список Composer пакетов
+### require
 php,
 laravel/framework,
 laravel/tinker
 
-###require-dev
+### require-dev
 fakerphp/faker,
 laravel/pail,
 laravel/pint,
